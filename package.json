@@ -80,7 +80,7 @@
     "tw-animate-css": "latest",
     "vaul": "^0.9.9",
     "xrpl": "latest",
-    "zod": "3.25.67"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.9",
